@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notícias de futebol</string>
+
+    <string name="title_news">Notícias</string>
+    <string name="title_favorites">Favoritos</string>
+
+    <string name="cd_news_image">Imagem da notícia.</string>
+    <string name="cd_favorite_icon">Ícone de favorito.</string>
+    <string name="cd_share_icon">Ícone de compartilhar.</string>
+
+    <string name="txt_open_link">Abrir link</string>
+
+    <string name="error_network">Erro de network.</string>
+</resources>
